@@ -1,4 +1,1 @@
-# Proiect-POO
-Acesta este proiectul la Programare Orientata pe Obiecte, dezvoltat in Microsoft Visual Studio 2022.
-Tema proiectului este "Gestiunea unei universitati", folosind 5 clase specifice. 
-Acesta utilizeaza concepte de compunere, mostenire, fisiere binare, generare rapoarte, meniu principal, clase abstracte, librarii STL, metode virtuale si fisiere CSV.
+In the Object-Oriented Programming project, I developed a comprehensive university management system using C++ to efficiently handle various activities of an entire university, utilizing 5 specific classes to manage over 50 data entries related to dormitories, professors, students, faculties, and classrooms. It incorporates key OOP concepts such as composition, inheritance, binary file handling, report generation, a main menu interface, abstract classes, STL libraries, virtual methods, and CSV file handling.
